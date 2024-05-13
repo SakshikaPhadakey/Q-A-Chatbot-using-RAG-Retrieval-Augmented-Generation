@@ -23,8 +23,10 @@ contextually relevant information and generating extra insights based on user qu
 |:--:| 
 | *Custom Architecture of RAG System* |
 
+<p align="center">
 
 | ![image](https://github.com/vidiptvashist/Q-A-Chatbot-using-RAG-Retrieval-Augmented-Generation-/assets/86826802/206864bb-3aed-4789-9071-c44c77b76e9f)| 
 |:--:| 
 | *High level technical flow* |
 
+</p>
