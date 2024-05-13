@@ -20,4 +20,5 @@ challenges, it is crucial to create a smart system that enhances web search retr
 contextually relevant information and generating extra insights based on user queries
 
 ![image](https://github.com/vidiptvashist/Q-A-Chatbot-using-RAG-Retrieval-Augmented-Generation-/assets/86826802/3543b5ea-3ef5-4fcf-a225-69cccfd61daf)
+* Custom Architecture of RAG System*
 
